@@ -1,0 +1,11 @@
+/Users/nhunghoang/Projects/Giraffe/Giraffe/bin/Debug/netcoreapp3.0/Giraffe
+/Users/nhunghoang/Projects/Giraffe/Giraffe/bin/Debug/netcoreapp3.0/Giraffe.deps.json
+/Users/nhunghoang/Projects/Giraffe/Giraffe/bin/Debug/netcoreapp3.0/Giraffe.runtimeconfig.json
+/Users/nhunghoang/Projects/Giraffe/Giraffe/bin/Debug/netcoreapp3.0/Giraffe.runtimeconfig.dev.json
+/Users/nhunghoang/Projects/Giraffe/Giraffe/bin/Debug/netcoreapp3.0/Giraffe.dll
+/Users/nhunghoang/Projects/Giraffe/Giraffe/bin/Debug/netcoreapp3.0/Giraffe.pdb
+/Users/nhunghoang/Projects/Giraffe/Giraffe/obj/Debug/netcoreapp3.0/Giraffe.csprojAssemblyReference.cache
+/Users/nhunghoang/Projects/Giraffe/Giraffe/obj/Debug/netcoreapp3.0/Giraffe.AssemblyInfoInputs.cache
+/Users/nhunghoang/Projects/Giraffe/Giraffe/obj/Debug/netcoreapp3.0/Giraffe.AssemblyInfo.cs
+/Users/nhunghoang/Projects/Giraffe/Giraffe/obj/Debug/netcoreapp3.0/Giraffe.dll
+/Users/nhunghoang/Projects/Giraffe/Giraffe/obj/Debug/netcoreapp3.0/Giraffe.pdb
